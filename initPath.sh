@@ -1,0 +1,1 @@
+source /home/pengzhen/Downloads/emsdk/emsdk_env.sh
